@@ -164,12 +164,7 @@
 
 <div id="footer" class="animate">
   <div>
-      <div class="connect">
-          <a href="https://github.com/ChinmayAnandS" class="github">github</a>
-          <a href="https://www.instagram.com/chinmay_anand_s/" class="instagram">instagram</a>
-          <a href="https://www.linkedin.com/in/chinmay-anand-s-a61162202/" class="linkedin">linkedin</a>
-      </div>
-      <p>Developed by Chinmay Anand, 2021</p>
+      <p>Developed by Cris F, 2022</p>
   </div>
 </div>
 
